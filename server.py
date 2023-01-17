@@ -23,7 +23,7 @@ def predict(sl,sw,pl,pw):
     return prediction
     #[prediction[0]]
 def main():
-    st.title("IRIS Prediction")
+    st.title("IRIS Prediction 1")
     html_temp = """
     <div style="background-color:blue;padding:10px">
     <h2 style="color:white;text-align:center;">Streamlit IRIS Predictor </h2>
